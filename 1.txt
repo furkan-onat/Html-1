@@ -1,0 +1,55 @@
+Tag	               Description
+<html>	               Defines the root of an HTML document
+<body>	               Defines the document's body
+<h1> to <h6>	       Defines HTML headings
+<p>	               Defines a paragraph
+<hr>	               Defines a thematic change in the content
+<br>	               Inserts a single line break
+<pre>	               Defines pre-formatted text
+
+<b>	               Defines bold text
+<em>	               Defines emphasized text 
+<i>	               Defines a part of text in an alternate voice or mood
+<small>	               Defines smaller text
+<strong>	       Defines important text
+<sub>	               Defines subscripted text
+<sup>	               Defines superscripted text
+<ins>	               Defines inserted text
+<del>	               Defines deleted text
+<mark>	               Defines marked/highlighted text
+
+<abbr>	               Defines an abbreviation or acronym
+<address>      	       Defines contact information for the author/owner of a document
+<bdo>	               Defines the text direction
+<blockquote>	       Defines a section that is quoted from another source
+<cite>	               Defines the title of a work
+<q>	               Defines a short inline quotation
+
+Tüm HTML öğelerinin nitelikleri olabilir
+hrefözelliği , <a>bağlantının gittiği sayfanın URL'sini belirtir
+srcniteliği, görüntülenecek <img>görüntünün yolunu belirtir
+Görüntüler için boyut bilgisi sağlamanın özellikleri widthve heightözellikleri<img>
+altözniteliği, bir <img>resim için alternatif bir metin sağlar
+styleNitelik, bir öğeye renk, yazı tipi, boyut ve daha fazlası gibi stiller eklemek için kullanılır .
+Etiketin langözelliği <html>, Web sayfasının dilini bildirir.
+titleNitelik, bir öğe hakkında bazı ek bilgileri tanımlar.
+styleHTML öğelerini biçimlendirmek için özniteliği kullanın
+background-colorArka plan rengi için kullanın
+colorMetin renkleri için kullanın
+font-familyMetin yazı tipleri için kullanın
+font-sizeMetin boyutları için kullanın
+text-alignMetin hizalaması için kullanın
+
+
+
+
+
+
+
+
+
+
+
+
+
+
